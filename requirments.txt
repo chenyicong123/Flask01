@@ -2,3 +2,5 @@ flask==1.1.2
 flask_sqlalchemy==2.4.3
 gevent==20.6.2
 flask_migrate==2.5.3
+redis==3.5.3
+pymysql==0.9.3
